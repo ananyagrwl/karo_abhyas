@@ -20,7 +20,7 @@ Autho is an authentication tool that facilitates user login through email verifi
 4. Start the development `npm start`
 
 ### Method 2: Deployment
-You can access the deployed version of the website directly via the following link:
+You can access the deployed version of the website directly via the following link: `https://karo-abhyas-irwv.vercel.app/`
 
 
 ## Footer
